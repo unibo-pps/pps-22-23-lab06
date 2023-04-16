@@ -2,6 +2,7 @@ package u06lab.code
 
 import java.util.OptionalInt
 
+// Optional!
 object ConnectThree extends App:
   val bound = 3
   enum Player:

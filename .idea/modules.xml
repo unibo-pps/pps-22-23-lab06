@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pps-code-lab-5.iml" filepath="$PROJECT_DIR$/.idea/modules/pps-code-lab-5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pps-code-lab-5-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pps-code-lab-5-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pps-code-lab-6.iml" filepath="$PROJECT_DIR$/.idea/modules/pps-code-lab-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pps-code-lab-6-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pps-code-lab-6-build.iml" />
     </modules>
   </component>
 </project>

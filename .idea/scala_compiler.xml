@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="pps-20-21-lab06,pps-20-21-lab06_594,pps-code-lab-5" />
+    <profile name="sbt 1" modules="pps-20-21-lab06,pps-20-21-lab06_594,pps-code-lab-5,pps-code-lab-6" />
   </component>
 </project>
